@@ -1,6 +1,6 @@
 # **Automated Plant Watering System**
 
-## This project involves creating an automated plant watering system using MATLAB and an Arduino Nano. The system monitors soil moisture levels and activates a water pump as needed to maintain optimal soil moisture. This repository contains the MATLAB code required to run the system.
+### This project involves creating an automated plant watering system using MATLAB and an Arduino Nano. The system monitors soil moisture levels and activates a water pump as needed to maintain optimal soil moisture. This repository contains the MATLAB code required to run the system.
 
 ## *Features*
 
